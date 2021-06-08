@@ -1,0 +1,11 @@
+
+*.cache
+*.dll
+*.pdb
+*.editorconfig
+*.txt
+*.exe
+*.targets
+*.props
+*.json
+ConsoleApp2/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
